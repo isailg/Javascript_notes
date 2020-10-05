@@ -1,2 +1,2 @@
 # Javascript_notes
-Notes of Javascript of sintaxis examples.
+Notes of Javascript for sintaxis examples.
